@@ -20,7 +20,7 @@ import com.lnsf.service.CommService;
 import com.lnsf.service.PostService;
 import com.lnsf.service.UserService;
 import com.lnsf.util.CommComparatpor;
-
+//我在测试
 @Controller
 public class CommController {
 	
